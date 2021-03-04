@@ -28,6 +28,8 @@ const con = mysql.createConnection({
 
                 console.log(result.affectedRows)
 
+
+                
         })
 
   })
